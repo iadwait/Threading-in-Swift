@@ -7,7 +7,7 @@ This Playground Project will give you a basic workaround of how threading concep
 - Grand Gentral Dispatch Work Item (Cancel Task in GCD)
 - Disptach Semaphore to handle race conditions
 - Operation Queue to make parallel task executions
-- Operation Queue to cancel operations or pause the queue
+- Operation Queue to cancel operations or pause/resume the queue
 
 ## Thank You !!
 
